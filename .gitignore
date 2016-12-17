@@ -9,3 +9,5 @@ Content/StarterContent/*
 *.suo
 .vs/Section_03/v14/.suo
 *.suo
+*VC.opendb
+*.sln
