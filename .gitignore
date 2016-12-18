@@ -7,7 +7,6 @@ Content/StarterContent/*
 *.VC.db
 .vs/Section_03/v14/.suo
 *.suo
-.vs/Section_03/v14/.suo
-*.suo
+.suo
 *VC.opendb
 *.sln
